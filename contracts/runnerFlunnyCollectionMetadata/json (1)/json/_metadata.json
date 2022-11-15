@@ -1,0 +1,1082 @@
+[
+  {
+    "name": "Flunny #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/1.png",
+    "dna": "b8dfb94aa5aca69bec1df275f2fa4cd5f631ee79",
+    "edition": 1,
+    "date": 1664255315677,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_1"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_3"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/2.png",
+    "dna": "e4eec8f4b9af1d9b2e4352ecee604e62b66e3c84",
+    "edition": 2,
+    "date": 1664255315854,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_4"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_5"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/3.png",
+    "dna": "dbe0d53b72081f6116e206ecd7761f73d6120a01",
+    "edition": 3,
+    "date": 1664255316229,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_3"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_4"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/4.png",
+    "dna": "2c09d9c38fb8102bf662890f681872f8bc0dd6fb",
+    "edition": 4,
+    "date": 1664255316438,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_5"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_5"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/5.png",
+    "dna": "d56acd609889ce17b508a50f73c83f0b7a7d4564",
+    "edition": 5,
+    "date": 1664255316814,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_5"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_4"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/6.png",
+    "dna": "66689ae845aaf45c32829885442151521514bdbb",
+    "edition": 6,
+    "date": 1664255317177,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_5"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_1"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/7.png",
+    "dna": "56c9e4a52ae1f9ecb9a27725963b1cc1cfa5dfcd",
+    "edition": 7,
+    "date": 1664255317903,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_3"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_4"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/8.png",
+    "dna": "aee16f7932885f2b8f256a7279eece41af7829ff",
+    "edition": 8,
+    "date": 1664255318268,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_6"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_4"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/9.png",
+    "dna": "a1f55d59a5ee2b5314fbe75bbc8c03f34d8d5f41",
+    "edition": 9,
+    "date": 1664255318583,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_2"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_5"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/10.png",
+    "dna": "570aeee7ccf66eb237d731fa9d2501fd34b88c60",
+    "edition": 10,
+    "date": 1664255318863,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_5"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_1"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/11.png",
+    "dna": "e8262dde07025760e7a7f58810da972bee25eb0f",
+    "edition": 11,
+    "date": 1664255319068,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_6"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_3"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/12.png",
+    "dna": "6296348cf688b125b33b3060c6a3657f3b351765",
+    "edition": 12,
+    "date": 1664255319444,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_3"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_2"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/13.png",
+    "dna": "0277d6511e5a5f8147cdad3ceba728b43b94e068",
+    "edition": 13,
+    "date": 1664255319831,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_5"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_5"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/14.png",
+    "dna": "2938ef50bd76b3720d2adf95e942ac3626662f0f",
+    "edition": 14,
+    "date": 1664255320073,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_6"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_5"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/15.png",
+    "dna": "1dca7517b47fddbe5d5ce35dd6af4836aead3f0e",
+    "edition": 15,
+    "date": 1664255320374,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_5"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_4"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/16.png",
+    "dna": "2d3d9ec0083bcb96c7ae2ea09b88d292427c4ddd",
+    "edition": 16,
+    "date": 1664255320601,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_6"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_4"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/17.png",
+    "dna": "f2087c5a8f47cd5858a17cda5f2236fb7a862a17",
+    "edition": 17,
+    "date": 1664255320814,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_6"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_1"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/18.png",
+    "dna": "354333e522fc4040857c458c54bd9f369da7e60f",
+    "edition": 18,
+    "date": 1664255321105,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_1"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_2"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/19.png",
+    "dna": "a6c0a4952783bcadb475fd450c43f15fdebdc8f9",
+    "edition": 19,
+    "date": 1664255321363,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_5"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_1"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #20",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/20.png",
+    "dna": "5fd684a1aca54fd87f36063f0bfd1d18434e8fbf",
+    "edition": 20,
+    "date": 1664255321901,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_3"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_1"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #21",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/21.png",
+    "dna": "e6670ca9c5b4996628b3e83f53f818d0f775aa1a",
+    "edition": 21,
+    "date": 1664255322258,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_4"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_1"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #22",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/22.png",
+    "dna": "1bf8f1c361ad18f66ec81002609e34fa0ffc7239",
+    "edition": 22,
+    "date": 1664255322482,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_4"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_4"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #23",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/23.png",
+    "dna": "945bc3124223e96a187ad5fe2d6e8a453087fe5d",
+    "edition": 23,
+    "date": 1664255322702,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_2"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_2"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #24",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/24.png",
+    "dna": "9e4ea85e8051eff66655cfeed3fc1cc36035912b",
+    "edition": 24,
+    "date": 1664255322951,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_6"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_2"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #25",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/25.png",
+    "dna": "14a23594220b6181b7f8a831abad5360878d1de5",
+    "edition": 25,
+    "date": 1664255323189,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_5"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_3"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #26",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/26.png",
+    "dna": "138e1bb001c935ef8017ac8b58bd83cfc7ebabf0",
+    "edition": 26,
+    "date": 1664255323618,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_3"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_1"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #27",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/27.png",
+    "dna": "f0b3214a8ec57a789d676566e92c4ac658066303",
+    "edition": 27,
+    "date": 1664255323812,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_2"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_1"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #28",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/28.png",
+    "dna": "e99c76c64e5363415dc9f10759c7572345e01953",
+    "edition": 28,
+    "date": 1664255324433,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_3"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_5"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #29",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/29.png",
+    "dna": "c01a39009115225117202e484fc34bfa316c3520",
+    "edition": 29,
+    "date": 1664255324703,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_4"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_2"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #30",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/30.png",
+    "dna": "4b395d23f1bd48ce3f882ca9eea0acefbb120894",
+    "edition": 30,
+    "date": 1664255324891,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_1"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_2"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #31",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/31.png",
+    "dna": "84fe9edb3754b60b106eb1574b84e28bfd52d1c4",
+    "edition": 31,
+    "date": 1664255325304,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_2"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_2"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #32",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/32.png",
+    "dna": "2b641e01ee8abe3da656d24ff7a23e52959c61cb",
+    "edition": 32,
+    "date": 1664255325507,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_4"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_3"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #33",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/33.png",
+    "dna": "ef5403699db1d02d590eb5fa37d0564ae4140fe1",
+    "edition": 33,
+    "date": 1664255325715,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_5"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_5"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #34",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/34.png",
+    "dna": "7435aea7151b9e0b98f3d9f6234195de19e7603a",
+    "edition": 34,
+    "date": 1664255326033,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_4"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_3"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #35",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/35.png",
+    "dna": "a31bc6a928b03830dd28b49ab25b68c5fad143e4",
+    "edition": 35,
+    "date": 1664255326281,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_4"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_2"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #36",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/36.png",
+    "dna": "67ac8a433cae35c20939ee24ed0a8bd3b552e6f7",
+    "edition": 36,
+    "date": 1664255326487,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_1"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_3"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #37",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/37.png",
+    "dna": "d345af6593ef4938760beaee6d63a9fa6266f841",
+    "edition": 37,
+    "date": 1664255326711,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_6"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_2"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #38",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/38.png",
+    "dna": "f4f3615137b564ee45ccb93648ed0cf1a6b5e8c2",
+    "edition": 38,
+    "date": 1664255326953,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_1"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_1"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #39",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/39.png",
+    "dna": "4d113f6191db84a05a16e32378b73e3fc547816c",
+    "edition": 39,
+    "date": 1664255327324,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_5"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_3"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Flunny #40",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/40.png",
+    "dna": "0c3685403c686751c181c6b2cc81fc2052b5044b",
+    "edition": 40,
+    "date": 1664255327831,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_3"
+      },
+      {
+        "trait_type": "Pers",
+        "value": "Pers"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Cloth_4"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat_3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

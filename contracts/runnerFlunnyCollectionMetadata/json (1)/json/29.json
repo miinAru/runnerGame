@@ -1,0 +1,27 @@
+{
+  "name": "Flunny #29",
+  "description": "Remember to replace this description",
+  "image": "ipfs://QmZtJc8C86QsnQot4hBSTEHfRMuooaGoac4Krcois6nQoF/29.png",
+  "dna": "c01a39009115225117202e484fc34bfa316c3520",
+  "edition": 29,
+  "date": 1664255324703,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_4"
+    },
+    {
+      "trait_type": "Pers",
+      "value": "Pers"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Cloth_2"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Hat_2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
